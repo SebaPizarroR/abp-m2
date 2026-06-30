@@ -24,6 +24,13 @@ const contactos = [
         alias: "jane.smith",
         banco: "XYZ Bank",
     },
+    {
+        id:3,
+        nombre: "Sebastián Pizarro",
+        cbu: "876543210",
+        alias: "seba",
+        banco: "State Bank",
+    },
 ];
 
 //FUNCIÓN QUE SE VA A ENCARGAR DE CARGAR LOS CONTACTOS EN LA UL DEL DOM
